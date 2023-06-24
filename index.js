@@ -3,7 +3,7 @@ const { Telegraf } = require('telegraf');
 const { message } = require('telegraf/filters');
 const zeev = require("zeev-gempa");
 
-const Token = "5892950426:AAGvnP3TDxxDOy6wt6Hq-th9En6-fvKYdOo";//token bot kamu
+const Token = "Token bot";//token bot kamu
 const bot = new Telegraf(Token);
 const owner = ["Lynch1201"]; //Username telegram kamu
 const izin = [owner];
