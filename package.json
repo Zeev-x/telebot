@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "telegraf": "^4.12.2",
+    "zeev-gempa": "^1.0.3"
+  },
+  "name": "telbot",
+  "version": "1.0.0",
+  "description": "telegram bot yang di buat oleh zeev-x",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telbot"
+  ],
+  "author": "zeev-x",
+  "license": "ISC"
+}
