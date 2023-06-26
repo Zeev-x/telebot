@@ -8,7 +8,7 @@ const bot = new Telegraf(Token);
 const owner = ["Lynch1201"]; //Username telegram kamu
 const izin = [owner];
 
-var toxic = ["Anjink","Memek"];
+var toxic = ["Anjink","Memek","Kontol","Anjink","Jembut"];
 var sapa = ["Hai","Halo","Hallo","hai","halo","hallo"];
 
 
