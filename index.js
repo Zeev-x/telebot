@@ -1,6 +1,6 @@
-const axios = require("axios");
 const { Telegraf } = require('telegraf');
 const { message } = require('telegraf/filters');
+const axios = require("axios");
 const zeev = require("zeev-gempa");
 
 const Token = "Token bot";//token bot kamu
